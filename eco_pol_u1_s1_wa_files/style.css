@@ -1,0 +1,130 @@
+.matematica-fm {
+  font-family: 'Roboto Mono' !important;
+}
+
+math {
+  font-family: "Arial" !important;
+}
+
+.img1 {
+  width: 430px !important;
+}
+
+.pr1 {
+  width: 50%;
+}
+
+.img2 {
+  width: 308px !important;
+}
+
+.img3 {
+  width: 263px !important;
+  margin-top: 44px;
+  margin-right: 110px !important;
+}
+
+.img4 {
+  width: 350px !important;
+  margin-left: 100px;
+}
+
+@media (max-width: 767.98px) {
+  .col.d-flex.align-items-sm-center.cl1 {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .col.d-flex.align-items-center.cl1 {
+    flex-direction: column;
+  }
+}
+
+.img6 {
+  width: 237px !important;
+}
+
+.img-fluid.figure-img.max-heigth-padrao.mx-auto.img-thumbnail.img7 {
+  width: 280px !important;
+}
+
+.textoroxo {
+  color: rgb(138,60,143);
+}
+
+.title1 {
+  color: #8a3c8f;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 78px;
+}
+
+.title2 {
+  font-size: 73px;
+  color: #898789;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
+  color: #495057;
+  background-color: #fff;
+  border-color: #8a3c8f #8a3c8f #8a3c8f;
+}
+
+a {
+  color: #bababa;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+}
+
+.img-thumbnail {
+  padding: 0.25rem;
+  background-color: #fff;
+  border: 0;
+  border-radius: 0.25rem;
+  max-width: 100%;
+  height: auto;
+}
+
+.title3 {
+  font-family: 'Open Sans', sans-serif;
+  color: rgb(138,60,143);
+}
+
+.title4 {
+  font-family: 'Open Sans', sans-serif;
+  color: rgb(173,173,173);
+  font-size: 23px;
+}
+
+.cl1 {
+}
+
+.div1 {
+  width: 50%;
+  margin-top: 20px;
+}
+
+.div2 {
+  width: 50%;
+}
+
+.cl2 {
+  margin-top: 45px;
+}
+
+.img5 {
+  width: 229px !important;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+
+.img0 {
+  width: 600px;
+}
+
+.img7 {
+  width: 300px !important;
+}
+

@@ -1,0 +1,52 @@
+.x {
+  font-size: 150px;
+}
+
+.icone {
+  width: 15%;
+}
+
+.circulo {
+  height: 30px;
+  width: 30px;
+  border-radius: 100%;
+  background-color: rgb(39,48,63);
+}
+
+.circulo2 {
+  height: 30px;
+  width: 30px;
+  border-radius: 100%;
+  background-color: rgb(39,48,63);
+}
+
+@media (max-width: 575.98px) {
+  .circulo {
+    height: 40px!important;
+    width: 40px!important;
+    border-radius: 100%;
+    background-color: rgb(39,48,63);
+  }
+}
+
+@media (max-width: 575.98px) {
+  .circulo2 {
+    height: 40px!important;
+    width: 55px!important;
+    border-radius: 100%;
+    background-color: rgb(39,48,63);
+  }
+}
+
+.cor-branco {
+  color: white;
+}
+
+footer .viewMore[aria-expanded="false"]:before {
+  content: "[ View More ]";
+}
+
+footer .viewMore[aria-expanded="true"]:before {
+  content: "[ View Less ]";
+}
+
